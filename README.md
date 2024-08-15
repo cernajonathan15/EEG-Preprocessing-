@@ -1,3 +1,5 @@
 # EEG-Preprocessing
 
-Please see "**Tai Chi Practice Buffers Aging Effects in Functional Brain Connectivity**" for scripts associated with the manuscript. 
+Please see the folder named "**Manuscript Scripts**" for scripts associated with the manuscript. 
+
+Please see the "**Raw data**" folder where the original data can be accessed. 
